@@ -1,0 +1,8 @@
+User-name,Breed-quiz-result,Email,Phone,Did they adopt a dog (shelter input),If yes which dog (shelter input)
+Sarah Smith,Labrador Retriever,,,No,
+Jennifer Jones,Goldendoodle,jennifer@jones.com,,No,
+Mary Miller,Boston Terrier,,303-555-5555,No,
+Charley Chambers,Poodle (Standard),,303-333-3333,No,
+Tommy Tune,Corgi (Pembroke),tommy@tune.com,303-111-2222,No,
+Cathy Patton,Goldendoodle,,,No,
+Lucy Lawless,Rottweiler,,2125551234,No,

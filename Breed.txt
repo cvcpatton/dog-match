@@ -1,0 +1,51 @@
+Breed,Size,Coat Length,Energy Level,Ease of Training,Temperament,Apartment Friendly,Needs Yard,Good with Children,Specialty,Primary Adjective,Adjective1,Adjective2,Adjective3
+Labrador Retriever,Large,Short,High,Easy,Friendly,Moderate,Preferred,Yes,Hunting,Lively,Loyal,Playful,Energetic
+Golden Retriever,Large,Medium,High,Easy,Friendly,Moderate,Preferred,Yes,Hunting,Affectionate,Reliable,Intelligent,Loving
+German Shepherd,Large,Medium,High,Moderate,Protective,No,Required,Yes,Guarding,Brave,Loyal,Brave,Smart
+French Bulldog,Small,Short,Low,Moderate,Easygoing,Yes,Not Needed,Yes,Lap Dog,"Lively, Affectionate",Playful,Calm,Affectionate
+Chihuahua,Small,Short,Moderate,Moderate,Alert,Yes,Not Needed,No,Lap Dog,Brave,Loyal,Bold,Feisty
+Goldendoodle,Large,Medium,High,Easy,Friendly,Moderate,Preferred,Yes,Companion,"Calm, Friendly",Social,Smart,Gentle
+Border Collie,Medium,Medium,High,Easy,Intense,No,Required,Yes,Herding,Lively,Focused,Intelligent,Agile
+Australian Shepherd,Medium,Medium,High,Easy,Loyal,No,Required,Yes,Herding,Lively,Energetic,Intelligent,Dedicated
+Boxer,Large,Short,High,Moderate,Playful,Moderate,Preferred,Yes,Guarding,Lively,Loyal,Bouncy,Strong
+Great Dane,Large,Short,Moderate,Moderate,Gentle,Yes,Preferred,Yes,Guarding,"Calm, Elegant",Friendly,Calm,Majestic
+Pit Bull Terrier,Medium,Short,High,Moderate,Affectionate,Moderate,Preferred,Yes,Guarding,Lively,Loyal,Energetic,Strong
+Bernese Mountain Dog,Large,Long,Moderate,Easy,Sweet,No,Required,Yes,Draft,"Calm, Affectionate",Gentle,Loving,Hardy
+Siberian Husky,Medium,Long,High,Moderate,Friendly,No,Required,Yes,Sledding,"Lively, Brave",Energetic,Vocal,Adventurous
+American Staffordshire Terrier,Medium,Short,High,Moderate,Devoted,Moderate,Preferred,No,Guarding,Brave,Loyal,Strong,Brave
+Australian Cattle Dog,Medium,Short,High,Moderate,Alert,No,Required,No,Guarding,Lively,Agile,Tough,Smart
+American Bulldog,Large,Short,High,Moderate,Protective,No,Required,Yes,Guarding,"Brave, Affectionate",Muscular,Brave,Affectionate
+Great Pyrenees,Large,Long,Moderate,Difficult,Calm,No,Required,Yes,Guarding,"Calm, Elegant",Patient,Independent,Majestic
+Corgi (Pembroke),Medium,Medium,High,Easy,Friendly,Yes,Preferred,Yes,Guarding,Lively,Playful,Smart,Alert
+Dachshund,Small,Medium ,Moderate,Moderate,Curious,Yes,Not Needed,Yes,Hunting,"Lively, Brave",Brave,Stubborn,Lively
+Poodle (Standard),Large,Long,High,Easy,Intelligent,Moderate,Preferred,Yes,Companion,"Lively, Elegant",Elegant,Smart,Agile
+Beagle,Medium,Short,High,Moderate,Curious,Moderate,Preferred,Yes,Hunting,Lively,Loyal,Cheerful,Inquisitive
+Shih Tzu,Small,Long,Low,Moderate,Sweet,Yes,Not Needed,Yes,Lap Dog,"Calm, Elegant",Elegant,Calm,Loving
+Pug,Small,Short,Moderate,Easy,Comical,Yes,Not Needed,Yes,Lap Dog,"Lively, Affectionate",Playful,Charming,Sociable
+Boston Terrier,Small,Short,Moderate,Easy,Friendly,Yes,Not Needed,Yes,Companion,"Lively, Affectionate",Bright,Lively,Affectionate
+Maltese,Small,Long,Moderate,Moderate,Loving,Yes,Not Needed,Yes,Lap Dog,"Lively, Elegant",Gentle,Elegant,Cheerful
+Pomeranian,Small,Long,High,Moderate,Bold,Yes,Not Needed,No,Lap Dog,Lively,Fluffy,Spirited,Smart
+Yorkshire Terrier,Small,Long,Moderate,Moderate,Alert,Yes,Not Needed,No,Companion,Elegant,Feisty,Elegant,Loyal
+Miniature Schnauzer,Medium,Medium,High,Easy,Spirited,Yes,Preferred,Yes,Guarding,Friendly,Smart,Friendly,Fearless
+Rottweiler,Large,Short,High,Moderate,Protective,No,Required,Yes,Guarding,Brave,Loyal,Strong,Brave
+Cavalier King Charles Spaniel,Small,Medium,Moderate,Easy,Gentle,Yes,Not Needed,Yes,Companion,Affectionate,Sweet,Graceful,Affectionate
+English Bulldog,Medium,Short,Low,Easy,Mellow,Yes,Not Needed,Yes,Companion,Calm,Loyal,Calm,Stubborn
+German Shorthaired Pointer,Large,Short,High,Easy,Driven,No,Required,Yes,Hunting,Lively,Athletic,Energetic,Smart
+Vizsla,Medium,Short,High,Easy,Affectionate,No,Required,Yes,Hunting,Lively,Loyal,Agile,Sensitive
+Weimaraner,Large,Short,High,Moderate,Loyal,No,Required,Yes,Hunting,"Lively, Elegant",Sleek,Intelligent,Energetic
+Rhodesian Ridgeback,Large,Short,High,Moderate,Confident,No,Required,Yes,Guarding,Elegant,Dignified,Strong,Protective
+Newfoundland,Giant,Long,Moderate,Easy,Sweet,No,Required,Yes,Water Rescue,Calm,Gentle,Patient,Massive
+Belgian Malinois,Medium,Short,High,Easy,Intense,No,Required,No,Guarding,Lively,Loyal,Driven,Alert
+Akita,Large,Long,Moderate,Difficult,Reserved,No,Required,No,Guarding,"Brave, Elegant",Dignified,Brave,Independent
+Basenji,Medium,Short,High,Moderate,Independent,Yes,Preferred,No,Guarding,Calm,Quiet,Curious,Clever
+Whippet,Medium,Short,High,Easy,Gentle,Yes,Preferred,Yes,Sprinting,"Calm, Elegant, Friendly",Sleek,Quiet,Friendly
+Samoyed,Large,Long,High,Moderate,Cheerful,No,Required,Yes,Sledding,"Friendly, Lively",Fluffy,Friendly,Energetic
+Norwegian Elkhound,Medium,Long,Moderate,Moderate,Protective,No,Preferred,Yes,"Guarding, Hunting",Calm,Loyal,Sturdy,Alert
+Keeshond,Medium,Long,Moderate,Easy,Affectionate,Yes,Preferred,Yes,Companion,Friendly ,Social,Bright,Soft
+Irish Setter,Large,Long,High,Moderate,Friendly,No,Required,Yes,Hunting,"Elegant, Lively",Flashy,Happy,Energetic
+Brittany Spaniel,Medium,Medium,High,Easy,Athletic,No,Required,Yes,Hunting,Lively,Agile,Cheerful,Obedient
+English Setter,Medium,Long,High,Moderate,Friendly,Moderate,Preferred,Yes,Hunting,"Calm, Elegant",Gentle,Stylish,Athletic
+Standard Schnauzer,Medium,Medium,High,Easy,Spirited,Yes,Preferred,Yes,Guarding,Lively,Smart,Alert,Versatile
+Airedale Terrier,Medium,Medium,High,Moderate,Bold,Moderate,Preferred,Yes,"Guarding, Hunting",Brave,Loyal,Intelligent,Confident
+Alaskan Husky,Large,Long,High,Moderate,Energetic,No,Required,Yes,Sledding,Friendly,Driven,Friendly,Tough
+Treeing Walker Coonhound,Large,Short,High,Moderate,Alert,No,Required,Yes,Hunting,Friently,Loud,Friendly,Athletic
