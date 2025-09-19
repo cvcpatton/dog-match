@@ -16,6 +16,16 @@ A Java application that helps match adopters with shelter dogs through a quiz-ba
 * Menu-driven interface with input validation
 * Includes unit testing and debugging for reliability
 
+**How to Run**
+
+```bash
+git clone https://github.com/cvcpatton/dog-shelter-matchmaker.git
+cd dog-shelter-matchmaker
+javac Capstone_patton.java
+java Capstone_patton
+```
+
+
 
 
 
