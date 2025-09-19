@@ -19,8 +19,8 @@ A Java application that helps match adopters with shelter dogs through a quiz-ba
 **How to Run**
 
 ```bash
-git clone https://github.com/cvcpatton/dog-shelter-matchmaker.git
-cd dog-shelter-matchmaker
+git clone https://github.com/cvcpatton/dog-match.git
+cd dog-match
 javac Capstone_patton.java
 java Capstone_patton
 ```
