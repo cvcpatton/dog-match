@@ -17,7 +17,9 @@ A Java application that helps match adopters with shelter dogs through a quiz-ba
 * Includes unit testing and debugging for reliability
 
 
-# 📜 LICENSE
+
+
+# 📜 License
 
 **Copyright © 2025 Catherine V.C. Patton**
 
