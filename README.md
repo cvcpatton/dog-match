@@ -25,6 +25,9 @@ javac Capstone_patton.java
 java Capstone_patton
 ```
 
+**Sample Output**
+
+![Dog Match screenshot](dog-match-screenshot.jpg)
 
 
 
