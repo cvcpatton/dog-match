@@ -16,6 +16,9 @@ A Java application that helps match adopters with shelter dogs through a quiz-ba
 * Menu-driven interface with input validation
 * Includes unit testing and debugging for reliability
 
+**Video Demo** 🎥  
+➡️ [Dog Match Video Demo](https://youtu.be/3Tf1hcPsBlU "Dog Match Video Demo")  
+
 **How to Run**
 
 ```bash
